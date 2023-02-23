@@ -22,22 +22,22 @@ $ pip3 install bs4
 ```
 Install Proxy:
 ```
-$ cd ZxxLKXDos
-$ python3 ZxxLKXProxy.py
+$ cd layer8
+$ python3 proxy.py
 ```
 Install Socks:
 ```
-$ cd ZxxLKXDos
-$ python3 ZxxLKXSOCKS.py
+$ cd layer7
+$ python3 ipsock.py
 ```
 Runn:
 ```
-$ cd ZxxLKX
-$ python3 ZxxLKX.py
+$ cd layer7
+$ python3 Mulai
 ```
 
 
-CREDIT : https://github.com/Bandhitawkunthi
-RECODE BY : https://github.com/ZxxLKX 
+CREDIT : YOO
+RECODE BY : YOO
 
 GASKEN DDOS WEBSITE NO KENDOR !! TAPI JANGAN ABUSE YA
